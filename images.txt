@@ -3,4 +3,4 @@ python:alpine3.19
 kasmweb/nginx:1.25.3
 mdsol/java8-jdk:latest
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
-
+ghcr.io/home-assistant/aarch64-hassio-supervisor:2024.06.2
